@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Theo</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 14 Oct 2026 19:04:58 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
+            <pubDate>Wed, 14 Oct 2026 19:11:03 -0400</pubDate>
+            <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[Theo now checks for Mac updates automatically. Click the blue download button to update and restart.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/theo-releases/releases/download/v0.1.0-14/Theo-0.1.0-14.zip" length="30960322" type="application/octet-stream" sparkle:edSignature="trs34Uh5dGXnT5D0dW+cVXCgNm1hEPaxx8jn+Lg5f95qofmzXkz8N2xOrFi0k/fr+8Bl2Bg7KmoCBOZ6mE2CDQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/theo-releases/releases/download/v0.1.0-15/Theo-0.1.0-15.zip" length="30964670" type="application/octet-stream" sparkle:edSignature="hI5IBZmpJ3HeTe5wkQjbJ2PtrFKANI4DdZSGs/OFFrTjB8YhqBvoGz5QTzTmuaKzg6cgit9DvRyVP6la0uNFDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3Dpb3XYeSevJRNxW25LNFFLANpu4IX2ngwWo2BmGyrlo8FMl2DQ+TcQP8wCL6+Vop+i9bDF3w1DrGCmET1p9Aw==
+edSignature: XgkplYOz4AOLDF1MJ3NexHJm4Xzvrvj7xK3DfIiRpKNDWpVRTs0LR8zzYBIzCgtkDjI74loQFBUG9N4fyB72CA==
 length: 1226
 -->
