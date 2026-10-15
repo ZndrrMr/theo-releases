@@ -2,19 +2,19 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Theo</title>
+        <title>Koi</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 14 Oct 2026 19:11:03 -0400</pubDate>
-            <sparkle:version>15</sparkle:version>
+            <pubDate>Thu, 15 Oct 2026 18:53:17 -0400</pubDate>
+            <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Theo now checks for Mac updates automatically. Click the blue download button to update and restart.
+            <description sparkle:format="plain-text"><![CDATA[Koi now checks for Mac updates automatically. Click the blue download button to update and restart.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/theo-releases/releases/download/v0.1.0-15/Theo-0.1.0-15.zip" length="30964670" type="application/octet-stream" sparkle:edSignature="hI5IBZmpJ3HeTe5wkQjbJ2PtrFKANI4DdZSGs/OFFrTjB8YhqBvoGz5QTzTmuaKzg6cgit9DvRyVP6la0uNFDA=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/theo-releases/releases/download/v0.1.0-16/Koi-0.1.0-16.zip" length="40050672" type="application/octet-stream" sparkle:edSignature="wPKOMHmgzGx5D41PjYL5JP0Ph3at4qG/j5/b7jyZ9nwQhz+zlKpf4pC2Z4OgDgEeD9lR2GUb7sZhLYfyM26iAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XgkplYOz4AOLDF1MJ3NexHJm4Xzvrvj7xK3DfIiRpKNDWpVRTs0LR8zzYBIzCgtkDjI74loQFBUG9N4fyB72CA==
-length: 1226
+edSignature: jZC2/phLs7rfIve4eYx3JZA+qyDn766qf6A6V+jNbC4gwhzz1+d6eGQiUn4NeWpgKkxHZCWAizze3kZglH9ZCA==
+length: 1223
 -->
