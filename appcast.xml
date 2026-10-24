@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Koi</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sat, 24 Oct 2026 12:18:57 -0400</pubDate>
-            <sparkle:version>40</sparkle:version>
+            <pubDate>Sat, 24 Oct 2026 13:48:40 -0400</pubDate>
+            <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[Koi now checks for Mac updates automatically. Click the blue download button to update and restart.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/theo-releases/releases/download/v0.1.0-40/Koi-0.1.0-40.zip" length="40422215" type="application/octet-stream" sparkle:edSignature="ZDfkfziZSmZXQMvJDyi4mhnsfIxWbBK5fbE0ikaUETyIZbo2lKyl7Wy4D54Xe8WiqDXlZPh73jED1daey6coBg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/theo-releases/releases/download/v0.1.0-41/Koi-0.1.0-41.zip" length="40436650" type="application/octet-stream" sparkle:edSignature="5QZ3KFcCtLgKDpqDTO8VftWCz4RB6OZMIT2rM4MTO7bxhbwm04jpeoSwRSwsOozm2/C9Em9WDgxcZP6LZ2WZAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DW651/Wr+PJyQ2qcFhbkUEYPX1b7wqBI9/NgVLNfQ5eN+VyR9rABb+Udkl7FYbUPNdQlStnzciwRpm+D9s2VAw==
+edSignature: bfs/rFt5HwRxDqBowrvtkRtnA/sfymz9ku+PuIK+mWUMf3x/6ophHmYZSpTTBDuEIxiytp876xb2wiB8lf4kAw==
 length: 1223
 -->
